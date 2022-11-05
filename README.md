@@ -1,0 +1,1 @@
+# SOLIDWORKS PDM Connectivity Test Tool
